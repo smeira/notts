@@ -3,9 +3,9 @@
 }
 
 :root{
-    --primaria: #58a4b0;
-    --secundaria: #373f51;
-    --secundaria-ativa: #cccccc;
-    --fundo: #ffffff;
-    --fundo-detalhes: #ececec;
+    --primaria: #b0588b;
+    --secundaria-ativa: #373f51;
+    --secundaria: #1fa156;
+    --fundo: #3a363f;
+    --fundo-detalhes: #ececec; /*textarea*/
 }
