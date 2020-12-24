@@ -2,6 +2,11 @@
     display: flex;
 }
 
+.conteudo-principal{
+    flex-grow: 3;
+    background-color: #3a363f;
+}
+
 :root{
     --primaria: #b0588b;
     --secundaria-ativa: #373f51;
